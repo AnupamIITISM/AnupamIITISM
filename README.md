@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+ I’m currently working on creating a custom chatbot on llm models. It will take input from company specific data from pdf files and return the answer along with the source attribution.
 <!--
 **AnupamIITISM/AnupamIITISM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
